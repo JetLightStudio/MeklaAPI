@@ -11,6 +11,6 @@ To get the version
 
 To get all foods(meklas)
 
-    http://localhost:5000/api/v1/foods
+    http://localhost:5000/api/v1/Meklas
     
 ![image](https://user-images.githubusercontent.com/24621701/44584767-e8140700-a7a1-11e8-884d-af6615ba99c2.png)
